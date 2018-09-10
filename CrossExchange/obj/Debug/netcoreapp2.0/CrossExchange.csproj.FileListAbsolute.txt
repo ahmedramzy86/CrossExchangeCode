@@ -1,0 +1,11 @@
+F:\Downloads\CrossExchange\CrossExchange\CrossExchange\bin\Debug\netcoreapp2.0\CrossExchange.deps.json
+F:\Downloads\CrossExchange\CrossExchange\CrossExchange\bin\Debug\netcoreapp2.0\CrossExchange.runtimeconfig.json
+F:\Downloads\CrossExchange\CrossExchange\CrossExchange\bin\Debug\netcoreapp2.0\CrossExchange.runtimeconfig.dev.json
+F:\Downloads\CrossExchange\CrossExchange\CrossExchange\bin\Debug\netcoreapp2.0\CrossExchange.dll
+F:\Downloads\CrossExchange\CrossExchange\CrossExchange\bin\Debug\netcoreapp2.0\CrossExchange.pdb
+F:\Downloads\CrossExchange\CrossExchange\CrossExchange\obj\Debug\netcoreapp2.0\CrossExchange.csproj.CoreCompileInputs.cache
+F:\Downloads\CrossExchange\CrossExchange\CrossExchange\obj\Debug\netcoreapp2.0\CrossExchange.AssemblyInfoInputs.cache
+F:\Downloads\CrossExchange\CrossExchange\CrossExchange\obj\Debug\netcoreapp2.0\CrossExchange.AssemblyInfo.cs
+F:\Downloads\CrossExchange\CrossExchange\CrossExchange\obj\Debug\netcoreapp2.0\CrossExchange.dll
+F:\Downloads\CrossExchange\CrossExchange\CrossExchange\obj\Debug\netcoreapp2.0\CrossExchange.pdb
+F:\Downloads\CrossExchange\CrossExchange\CrossExchange\obj\Debug\netcoreapp2.0\CrossExchange.csprojAssemblyReference.cache

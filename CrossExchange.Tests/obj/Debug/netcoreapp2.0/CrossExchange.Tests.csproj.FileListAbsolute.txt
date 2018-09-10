@@ -1,0 +1,17 @@
+F:\Downloads\CrossExchange\CrossExchange\CrossExchange.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+F:\Downloads\CrossExchange\CrossExchange\CrossExchange.Tests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+F:\Downloads\CrossExchange\CrossExchange\CrossExchange.Tests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+F:\Downloads\CrossExchange\CrossExchange\CrossExchange.Tests\bin\Debug\netcoreapp2.0\CrossExchange.Tests.deps.json
+F:\Downloads\CrossExchange\CrossExchange\CrossExchange.Tests\bin\Debug\netcoreapp2.0\CrossExchange.Tests.runtimeconfig.json
+F:\Downloads\CrossExchange\CrossExchange\CrossExchange.Tests\bin\Debug\netcoreapp2.0\CrossExchange.Tests.runtimeconfig.dev.json
+F:\Downloads\CrossExchange\CrossExchange\CrossExchange.Tests\bin\Debug\netcoreapp2.0\CrossExchange.Tests.dll
+F:\Downloads\CrossExchange\CrossExchange\CrossExchange.Tests\bin\Debug\netcoreapp2.0\CrossExchange.Tests.pdb
+F:\Downloads\CrossExchange\CrossExchange\CrossExchange.Tests\bin\Debug\netcoreapp2.0\CrossExchange.dll
+F:\Downloads\CrossExchange\CrossExchange\CrossExchange.Tests\bin\Debug\netcoreapp2.0\CrossExchange.pdb
+F:\Downloads\CrossExchange\CrossExchange\CrossExchange.Tests\obj\Debug\netcoreapp2.0\CrossExchange.Tests.csprojAssemblyReference.cache
+F:\Downloads\CrossExchange\CrossExchange\CrossExchange.Tests\obj\Debug\netcoreapp2.0\CrossExchange.Tests.csproj.CoreCompileInputs.cache
+F:\Downloads\CrossExchange\CrossExchange\CrossExchange.Tests\obj\Debug\netcoreapp2.0\CrossExchange.Tests.AssemblyInfoInputs.cache
+F:\Downloads\CrossExchange\CrossExchange\CrossExchange.Tests\obj\Debug\netcoreapp2.0\CrossExchange.Tests.AssemblyInfo.cs
+F:\Downloads\CrossExchange\CrossExchange\CrossExchange.Tests\obj\Debug\netcoreapp2.0\CrossExchange.Tests.csproj.CopyComplete
+F:\Downloads\CrossExchange\CrossExchange\CrossExchange.Tests\obj\Debug\netcoreapp2.0\CrossExchange.Tests.dll
+F:\Downloads\CrossExchange\CrossExchange\CrossExchange.Tests\obj\Debug\netcoreapp2.0\CrossExchange.Tests.pdb
